@@ -11,9 +11,9 @@
     "additional-options"   : "",
     "solution-stack"       : "64bit Amazon Linux 2 v2.1.1 running .NET Core",
     "environment-type"     : "SingleInstance",
-    "cname"                : "plsight-netcoreapi-dev",
+    "cname"                : "usaone002-pluralsight-netcoreapi-dev",
     "instance-type"        : "t2.micro",
-    "key-pair"             : "PlsightDemo",
+    "key-pair"             : "PluralsightDemo",
     "instance-profile"     : "aws-elasticbeanstalk-NETCoreAPI-dev",
     "service-role"         : "aws-elasticbeanstalk-service-role",
     "proxy-server"         : "nginx"

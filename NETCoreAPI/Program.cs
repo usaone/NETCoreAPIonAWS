@@ -13,8 +13,12 @@ namespace NETCoreAPI
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
-                .ConfigureAppConfiguration((context, builder) => {
-                    builder.AddSystemsManager("/plsight");
+                .ConfigureAppConfiguration((context, builder) =>
+                {
+                    if (!context.HostingEnvironment.IsDevelopment())
+                    {
+                        builder.AddSystemsManager("/Pluralsight");
+                    }
                 })
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
