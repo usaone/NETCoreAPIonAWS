@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "V9OLSu1VwWmUwtEi7Tee9NCXxUbSXm6gveNWXc5tBnIL0ja0DhHH63OSO4fSBIHGo4ksH3jkmlR9Fr6vNXcz1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\AWSServerlessCheckingItOut\\AWSServerlessCheckingItOut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usami\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.3.0\\amazon.lambda.apigatewayevents.2.3.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.1.0\\amazon.lambda.applicationloadbalancerevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\amazon.lambda.aspnetcoreserver\\5.2.0\\amazon.lambda.aspnetcoreserver.5.2.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\amazon.lambda.logging.aspnetcore\\3.1.0\\amazon.lambda.logging.aspnetcore.3.1.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\microsoft.extensions.logging\\2.1.0\\microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
