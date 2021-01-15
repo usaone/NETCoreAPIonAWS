@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\AWSServerlessCheckingItOut\\AWSServerlessCheckingItOut.csproj": {}
+    "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\NETCoreAPIonAWS\\AWSServerlessCheckingItOut\\AWSServerlessCheckingItOut.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\AWSServerlessCheckingItOut\\AWSServerlessCheckingItOut.csproj": {
+    "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\NETCoreAPIonAWS\\AWSServerlessCheckingItOut\\AWSServerlessCheckingItOut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\AWSServerlessCheckingItOut\\AWSServerlessCheckingItOut.csproj",
+        "projectUniqueName": "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\NETCoreAPIonAWS\\AWSServerlessCheckingItOut\\AWSServerlessCheckingItOut.csproj",
         "projectName": "AWSServerlessCheckingItOut",
-        "projectPath": "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\AWSServerlessCheckingItOut\\AWSServerlessCheckingItOut.csproj",
+        "projectPath": "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\NETCoreAPIonAWS\\AWSServerlessCheckingItOut\\AWSServerlessCheckingItOut.csproj",
         "packagesPath": "C:\\Users\\usami\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\AWSServerlessCheckingItOut\\obj\\",
+        "outputPath": "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\NETCoreAPIonAWS\\AWSServerlessCheckingItOut\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -60,6 +60,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.1.11, 3.1.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -68,7 +74,12 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }

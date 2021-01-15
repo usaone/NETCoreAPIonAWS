@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V9OLSu1VwWmUwtEi7Tee9NCXxUbSXm6gveNWXc5tBnIL0ja0DhHH63OSO4fSBIHGo4ksH3jkmlR9Fr6vNXcz1Q==",
+  "dgSpecHash": "8yCLqt8+5MOtwSWWd3ki0ifovKnl8CbZdIPnEXYgtUB/NnEzPSXoJfBo/Vh4yagCEJ46WYDoYcPFMujs0ajZXg==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\AWSServerlessCheckingItOut\\AWSServerlessCheckingItOut.csproj",
+  "projectFilePath": "D:\\Code\\Pluralsight\\dotnet-apps-on-aws\\NETCoreAPIonAWS\\AWSServerlessCheckingItOut\\AWSServerlessCheckingItOut.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usami\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.3.0\\amazon.lambda.apigatewayevents.2.3.0.nupkg.sha512",
     "C:\\Users\\usami\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.1.0\\amazon.lambda.applicationloadbalancerevents.2.1.0.nupkg.sha512",
@@ -19,7 +19,8 @@
     "C:\\Users\\usami\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
     "C:\\Users\\usami\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
     "C:\\Users\\usami\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
-    "C:\\Users\\usami\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    "C:\\Users\\usami\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\usami\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.11\\microsoft.netcore.app.host.linux-x64.3.1.11.nupkg.sha512"
   ],
   "logs": []
 }
